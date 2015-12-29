@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>cellType</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subTitle</key>
+				<string>每天开奖</string>
+				<key>accessoryView</key>
+				<string>UISwitch</string>
+                <key>switchKey</key>
+                <string>push0101</string>
+				<key>title</key>
+				<string>双色球</string>
+			</dict>
+			<dict>
+				<key>cellType</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subTitle</key>
+				<string>每天开奖</string>
+				<key>accessoryView</key>
+				<string>UISwitch</string>
+				<key>title</key>
+                <string>双色球</string>       <key>switchKey</key>
+                <string>push0102</string>
+			</dict>
+			<dict>
+				<key>cellType</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subTitle</key>
+				<string>每天开奖</string>
+				<key>accessoryView</key>
+				<string>UISwitch</string>
+				<key>title</key>
+                <string>双色球</string>       <key>switchKey</key>
+                <string>push0103</string>
+			</dict>
+			<dict>
+				<key>cellType</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subTitle</key>
+				<string>每天开奖</string>
+				<key>accessoryView</key>
+				<string>UISwitch</string>
+				<key>title</key>
+                <string>双色球</string>       <key>switchKey</key>
+                <string>push0104</string>
+			</dict>
+			<dict>
+				<key>cellType</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subTitle</key>
+				<string>每天开奖</string>
+				<key>accessoryView</key>
+				<string>UISwitch</string>
+				<key>title</key>
+                <string>双色球</string>       <key>switchKey</key>
+                <string>push0105</string>
+			</dict>
+			<dict>
+				<key>cellType</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subTitle</key>
+				<string>每天开奖</string>
+				<key>accessoryView</key>
+				<string>UISwitch</string>
+				<key>title</key>
+                <string>双色球</string>       <key>switchKey</key>
+                <string>push0106</string>
+			</dict>
+			<dict>
+				<key>cellType</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subTitle</key>
+				<string>每周开奖</string>
+				<key>accessoryView</key>
+				<string>UISwitch</string>
+				<key>title</key>
+				<string>大乐透</string>
+                <key>switchKey</key>
+                <string>push0107</string>
+			</dict>
+		</array>
+		<key>header</key>
+		<string>今天天气不错</string>
+	</dict>
+</array>
+</plist>
